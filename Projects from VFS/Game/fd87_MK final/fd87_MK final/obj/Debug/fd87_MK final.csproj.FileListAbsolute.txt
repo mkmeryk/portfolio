@@ -1,0 +1,15 @@
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\bin\Debug\fd87_MK final.exe.config
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\bin\Debug\fd87_MK final.exe
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\bin\Debug\fd87_MK final.pdb
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.csproj.CoreCompileInputs.cache
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.exe
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.pdb
+c:\users\fd87maryam\source\repos\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.csprojResolveAssemblyReference.cache
+H:\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.csprojResolveAssemblyReference.cache
+H:\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.csproj.CoreCompileInputs.cache
+H:\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.exe
+H:\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.pdb
+H:\first 4 terms\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.csprojResolveAssemblyReference.cache
+H:\first 4 terms\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.csproj.CoreCompileInputs.cache
+H:\first 4 terms\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.exe
+H:\first 4 terms\Term 2\Intro to programming\fd87_MK final\fd87_MK final\obj\Debug\fd87_MK final.pdb
